@@ -39,6 +39,9 @@ return [
 
     'shared_folder_name'       => 'shares',
 
+    // allow delete folder not empty
+    'allow_delete_folder_not_empty'  => true,
+
     /*
     |--------------------------------------------------------------------------
     | Folder Names
